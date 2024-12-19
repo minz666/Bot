@@ -183,7 +183,7 @@ def wait_for_verification_code(email, token, timeout=120, interval=5):
 def main():
     print_welcome_message()
     password = "I1N1a2FyYWphMTIz"
-    invitation_code = "XXXXX"  # Replace with actual code
+    invitation_code = "4401CE6K"  # Replace with actual code
     output_file_path = 'info_akun.txt'
 
     number_of_accounts = 100  # How many accounts do you want to create?
